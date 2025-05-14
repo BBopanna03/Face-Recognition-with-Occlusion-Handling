@@ -37,7 +37,7 @@ YOLOv8/
 ---
 
 
-## 📥 Model Downloads
+📥 Model Downloads
 
 Download the required models from the following Google Drive link and place them in the project root:
 
@@ -45,9 +45,9 @@ Download the required models from the following Google Drive link and place them
 
 ---
 
-## 🚀 How to Run the Application
+🚀 How to Run the Application
 
-### 📸 1. Collect Face Images
+📸 1. Collect Face Images
 
 Use this command to collect face images using your webcam:
 
@@ -78,7 +78,6 @@ face-recognition 1.3.0
 tqdm 4.65.0
 
 Install dependencies with:
-
     pip install -r requirements.txt
 
 📌 Notes
