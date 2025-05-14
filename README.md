@@ -5,7 +5,7 @@ The project implements a robust face recognition system capable of handling occl
 
 ## 📁 File Structure
 
-
+```plaintext
 YOLOv8/
 ├── data/                              # Data directory for face training images
 │   └── faces/                         # Main face data folder
@@ -32,6 +32,7 @@ YOLOv8/
 ├── simple_collect.py                  # Script to collect face images in a simpler way
 ├── simple_face_rec.py                 # Simple face recognition script
 └── train_recognizer.py                # Script to train the face recognition model
+
 
 ---
 
