@@ -1,0 +1,2 @@
+python simple_collect.py --name "Bharath M" --num-images 3
+python advanced_occlusion_recognition.py - option 1 and run again then option 2
